@@ -1,0 +1,33 @@
+_repo: L-h-r-siarque-et-Cie_22356
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowisky, Guillaume de
+    - De Kostrowisky, Guillaume
+    - Kostrowitzky, Wilhelm Apollinaris de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2007-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22356'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+title: L'hérésiarque et Cie
+url: http://www.gutenberg.org/ebooks/22356
